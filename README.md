@@ -8,7 +8,7 @@
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
-const Morais  = {
+const Dulkith  = {
     pronouns: "Dulkith", "Batduwa",
     contact: "dulkith@outlook.com",
     code: ["LUA", "HTML", "CSS", "Python(), MySQL", "Java", "JS", "VB"],

@@ -17,7 +17,7 @@ const dulkith  = {
         databases: ["MySql"]
     },
     currentProject: "LUA Scripts and QB-Framework!",
-    DiscordMoraisScripts: "https://discord.gg/dulkith",
+    Discord: "https://discord.gg/dulkith",
 };
 ```
 

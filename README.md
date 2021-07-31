@@ -16,7 +16,7 @@ const dulkith  = {
     technologies: {
         databases: ["Firebase", "Postgres", "Mongob", "MySql", "MsSql"]
     },
-    currentProject: "LUA Scripts and QB-Framework!"
+    currentProject: "LUA Scripts and QB-Framework!",
     twitter: "https://twitter.com/dulkith"
 };
 ```

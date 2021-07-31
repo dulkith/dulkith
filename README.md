@@ -11,13 +11,12 @@
 const dulkith  = {
     pronouns: "Dulkith", "Batduwa",
     contact: "dulkith@outlook.com",
-    code: ["LUA", "HTML", "CSS", "Python(), MySQL", "Java", "JS", "VB"],
+    code: ["Java", "JS", "TS", "Python()", "C++", "C#", "HTML", "CSS", "Flutter", "Dart", "Angular", "ML", "VB"],
     askMeAbout: ["Game Dev", "Tech", "Gaming"],
     technologies: {
-        databases: ["MySql"]
+        databases: ["Firebase", "Postgres", "Mongob", "MySql", "MsSql"]
     },
-    currentProject: "LUA Scripts and QB-Framework!",
-    Discord: "https://discord.gg/dulkith",
+    currentProject: "LUA Scripts and QB-Framework!"
 };
 ```
 

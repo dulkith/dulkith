@@ -6,7 +6,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdulkith%2Fdulkith%2F&count_bg=%23FF0000&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Profile%20views&edge_flat=false)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulkith" alt="dulkith" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulkith" alt="dulkith" /></a>
 
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 

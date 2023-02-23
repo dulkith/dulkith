@@ -4,7 +4,7 @@
 <h2> (Hello)🙏🏻, I'm Dulkith! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdulkith%2Fdulkith%2F&count_bg=%23FF0000&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Profile views
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdulkith%2Fdulkith%2F&count_bg=%23FF0000&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Profile%20views
 &edge_flat=false)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulkith" alt="dulkith" /></a> </p>
